@@ -1,7 +1,8 @@
 
 @agenda = [
     {nome: "Diego", telefone: "62991814569"},
-    {nome: "Carlos", telefone: "62991834569"}
+    {nome: "Carlos", telefone: "62991834569"},
+    {nome: "Felipe", telefone: "62990000569"}
 ]
 
 def todos_contatos
